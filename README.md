@@ -77,8 +77,3 @@
 - Git - Version control.
 - ESLint and Prettier - For code quality and formatting.
 - Dotenv - For environment variable management.
-
-
-### Demo
-https://code-sync.codersgyan.com/
-
